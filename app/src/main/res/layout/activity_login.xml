@@ -15,9 +15,9 @@
         android:layout_height="wrap_content"
         android:hint="SingUp in Google"
         android:textSize="20sp"
-        android:backgroundTint="#FF5722"
+        android:backgroundTint="#FF5790"
         android:textColorHint="@color/white"
-        tools:ignore="InvalidId,MissingConstraints" />
+        tools:ignore="HardcodedText,InvalidId,MissingConstraints" />
 
 
 </LinearLayout>
